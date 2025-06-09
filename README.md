@@ -1,13 +1,35 @@
 
-<h1 align="center">Hi , I'm Prashant Natekar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Prashant Natekar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Java+Full+Stack+Developer;Always+Exploring+New+Tech" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<h4 align="center">## 👋 About Me
 
+I'm currently pursuing a **Java Full Stack Developer** course and have recently completed a **Web Development Certification from Udemy**, gaining hands-on experience in building modern, user-friendly web applications.
+
+I specialize in:
+
+- 🔹 Java, Spring Boot, and Angular for robust backend & frontend development
+- 🔹 HTML, CSS, JavaScript for responsive UI/UX
+- 🔹 SQL and Cloud Technologies for data and deployment management
+
+With a B.Sc. in Computer Science and a passion for continuous learning, I love solving real-world problems through code and building scalable solutions that make an impact.
+
+---
+
+### 🎯 My Goals
+- 🔧 Keep improving as a Full Stack Developer
+- 🚀 Work on impactful, real-world projects
+- 🌱 Learn DevOps and cloud-native architecture
+
+---
+
+### 📫 Let’s Connect!
+Feel free to reach out if you want to collaborate or have a project idea!
+
+</h4>
+<br>
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant8181&theme=algolia" alt="candida18"  /></p>
 
@@ -73,32 +95,6 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
   
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
  ### 👉 Software & Tools
  
 <p>
@@ -163,8 +159,7 @@
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+
 
 
 
