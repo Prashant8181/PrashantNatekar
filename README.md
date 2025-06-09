@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Java+Full+Stack+Developer;Always+Exploring+New+Tech" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center"> -**About Me**
+<h4 align="center"> - **About Me**
 
 I'm currently pursuing a **Java Full Stack Developer** course and have recently completed a **Web Development Certification from Udemy**, gaining hands-on experience in building modern, user-friendly web applications.
 
