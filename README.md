@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Java+Full+Stack+Developer;Always+Exploring+New+Tech" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">## 👋 About Me
+<h4 align="center"> ##- About Me
 
 I'm currently pursuing a **Java Full Stack Developer** course and have recently completed a **Web Development Certification from Udemy**, gaining hands-on experience in building modern, user-friendly web applications.
 
@@ -23,20 +23,15 @@ With a B.Sc. in Computer Science and a passion for continuous learning, I love s
 - 🚀 Work on impactful, real-world projects
 - 🌱 Learn DevOps and cloud-native architecture
 
----
-
-### 📫 Let’s Connect!
-Feel free to reach out if you want to collaborate or have a project idea!
-
 </h4>
 <br>
-## 🔥 Streak Stats
+## - Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant8181&theme=algolia" alt="candida18"  /></p>
 
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### - Programming languages
 
 <p align="left"> 
   &emsp; 
@@ -59,13 +54,9 @@ Feel free to reach out if you want to collaborate or have a project idea!
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-</p>
 
-### 👉 Frontend Development
+
+### - Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -81,7 +72,7 @@ Feel free to reach out if you want to collaborate or have a project idea!
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### - Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -89,17 +80,11 @@ Feel free to reach out if you want to collaborate or have a project idea!
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
   
- ### 👉 Software & Tools
+ ### - Software & Tools
  
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
@@ -128,10 +113,10 @@ Feel free to reach out if you want to collaborate or have a project idea!
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Prashant's" Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashant8181&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant8181&show_icons=true&locale=en&layout=compact&theme=algolia" alt="prashant8181" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -141,7 +126,7 @@ Feel free to reach out if you want to collaborate or have a project idea!
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/prashant8181"><img alt="Prashant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prashant8181&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -150,9 +135,8 @@ Feel free to reach out if you want to collaborate or have a project idea!
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:prashantnatekar44@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/prashant8181"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/prashantnatekar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
 </p>
