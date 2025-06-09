@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Java+Full+Stack+Developer;Always+Exploring+New+Tech" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center"> ##- About Me
+<h4 align="center"> ##- **About Me**
 
 I'm currently pursuing a **Java Full Stack Developer** course and have recently completed a **Web Development Certification from Udemy**, gaining hands-on experience in building modern, user-friendly web applications.
 
@@ -25,7 +25,7 @@ With a B.Sc. in Computer Science and a passion for continuous learning, I love s
 
 </h4>
 <br>
-## - Streak Stats
+## - **🔥Streak Stats**
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant8181&theme=algolia" alt="candida18"  /></p>
 
 
