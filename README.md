@@ -25,9 +25,6 @@ With a B.Sc. in Computer Science and a passion for continuous learning, I love s
 
 </h4>
 <br>
- - **🔥Streak Stats**
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant8181&theme=algolia" alt="candida18"  /></p>
-
 
 ## 🛠️ My Skills
 
